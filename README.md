@@ -13,7 +13,7 @@ I'm 💻 Full Stack Software Engineer passionate about building clean web applic
 
 - 💬 Ask me anything at **[Discussions](https://github.com/iamhitya/iamhitya/issues/1)**. I am happy to help! ❤️
 
-- 📫 How to reach me on **[LinkedIn](https://www.linkedin.com/in/iamhitya/)**
+- 📫 Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/iamhitya/)**
 
 - 📄 Know about my experiences **[Resume](https://iamhitya.github.io/resume/)**
 
