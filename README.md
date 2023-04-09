@@ -11,7 +11,7 @@ I'm 💻 Full Stack Software Engineer passionate about building clean web applic
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
-- 💬 Ask me anything at **[Discussions](https://wa.me/919898273327)**. I am happy to help! ❤️
+- 💬 Ask me anything at **[Discussions](https://github.com/iamhitya/iamhitya/issues/1)**. I am happy to help! ❤️
 
 - 📫 How to reach me on **[LinkedIn](https://www.linkedin.com/in/iamhitya/)**
 
