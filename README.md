@@ -15,9 +15,9 @@ I'm 💻 Full Stack Software Engineer passionate about building clean web applic
 
 - 📫 Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/iamhitya/)**
 
-- 📄 Checkout my **[Resume](https://iamhitya.github.io/resume/)**
+- 📄 Checkout my **[resume](https://iamhitya.github.io/resume/)**
 
-- 📝 I ~~regularly~~ write articles on **[my blog](https://iamhitya.hashnode.dev/)**
+- 📝 I ~~regularly~~ write articles on my **[blog](https://iamhitya.hashnode.dev/)**
 
 - ⚡ Fun fact **Equal is Not Always Equal in JavaScript.**
 
