@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hiteshkumar. 🙎</h1>
-<h4 align="center">Crazy about developing stuff from 0 to 1. 🚀</h4>
+<h1 align="center">I'm Hiteshkumar. 🧑‍💻</h1>
+<p align="center">Crazy about developing stuff from 0 to 1. 🚀</p>
 
 I'm 💻 Full Stack Software Engineer passionate about building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions.
 
@@ -11,15 +11,23 @@ I'm 💻 Full Stack Software Engineer passionate about building clean web applic
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
-- 💬 Ask me anything at **[Discussions](https://github.com/iamhitya/iamhitya/issues/1)**. I am happy to help! ❤️
+- 💬 Ask me anything **[here](https://github.com/iamhitya/iamhitya/issues/1)**. I am happy to help! ❤️
 
 - 📫 Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/iamhitya/)**
 
-- 📄 Know about my experiences **[Resume](https://iamhitya.github.io/resume/)**
+- 📄 Checkout my **[Resume](https://iamhitya.github.io/resume/)**
 
-- 📝 I ~~regularly~~ write articles on **[HashNode](https://iamhitya.hashnode.dev/)**
+- 📝 I ~~regularly~~ write articles on **[my blog](https://iamhitya.hashnode.dev/)**
 
 - ⚡ Fun fact **Equal is Not Always Equal in JavaScript.**
+
+### My Absolute Favorites
+
+- 💻 I love exploring new tech stack and building cool stuffs.
+
+- 📰 Reading & writing tech blogs whenever possible.
+
+- 🍕 Hackathons, meetups & tech events.
 
 ### Connect with Me
 
