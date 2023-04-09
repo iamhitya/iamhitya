@@ -1,7 +1,8 @@
 <h1 align="center">I'm Hiteshkumar. 🧑‍💻</h1>
-<p align="center">Crazy about developing stuff from 0 to 1. 🚀</p>
 
 I'm 💻 Full Stack Software Engineer passionate about building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions.
+
+Crazy about developing stuff from 0 to 1. 🚀
 
 <img src="https://komarev.com/ghpvc/?username=iamhitya&label=Profile%20views&color=0e75b6&style=flat" alt="iamhitya" /> 
 
