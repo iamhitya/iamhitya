@@ -18,7 +18,7 @@ Crazy about developing stuff from 0 to 1. 🚀
 
 - 📄 Checkout my **[resume](https://iamhitya.github.io/resume/)**
 
-- 📝 I ~~regularly~~ write articles on my **[blog](https://iamhitya.hashnode.dev/)**
+- 📝 I ~~regularly~~ write articles on **[LinkedIn](https://www.linkedin.com/in/iamhitya/recent-activity/all/)**
 
 - ⚡ Fun fact **Equal is Not Always Equal in JavaScript.**
 
