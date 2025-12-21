@@ -1,8 +1,9 @@
-<h1 align="center">I'm Hiteshkumar. 🧑‍💻</h1>
+<h1 align="center">
+I'm Hiteshkumar. 🧑‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Senior+.NET+Full+Stack+Developer;Integrating+GenAI+with+.NET;Clean+architecture.+Real-world+systems;Backend-focused.+Frontend-capable;Performance.+Security.+Maintainability)](https://iamhitya.github.io/resume/)
+</h1>
 
 I'm 💻 Full Stack Software Engineer passionate about building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Senior+.NET+Full+Stack+Developer;Integrating+GenAI+with+.NET;Clean+architecture.+Real-world+systems;Backend-focused.+Frontend-capable;Performance.+Security.+Maintainability)](https://iamhitya.github.io/resume/)
 
 Crazy about developing stuff from 0 to 1. 🚀
 
