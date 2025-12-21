@@ -1,6 +1,8 @@
 <h1 align="center">I'm Hiteshkumar. 🧑‍💻</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&height=40&lines=Senior+.NET+Full+Stack+Developer;Integrating+GenAI+with+.NET;Clean+architecture.+Real-world+systems.;Backend-focused.+Frontend-capable.;Performance.+Security.+Maintainability.)](https://iamhitya.github.io/resume/)
+<p align="center">
+  <a href="[https://git.io/typing-svg](https://iamhitya.github.io/resume/)"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=600&height=40&lines=Senior+.NET+Full+Stack+Developer;Integrating+GenAI+with+.NET;Clean+architecture.+Real-world+systems.;Backend-focused.+Frontend-capable.;Performance.+Security.+Maintainability." alt="Typing SVG" /></a>
+</p>
 
 I'm 💻 Full Stack Software Engineer passionate about building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions.
 
