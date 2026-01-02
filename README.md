@@ -34,6 +34,8 @@ Crazy about developing stuff from 0 to 1. 🚀
 
 - 📰 Reading & writing tech blogs whenever possible.
 
+- ⭐ Consistency is the key. I keep building, learning & sharing to become better every day.
+
 - 🍕 Hackathons, meetups & tech events.
 
 ---
@@ -67,7 +69,7 @@ Crazy about developing stuff from 0 to 1. 🚀
 ---
 
 ### Connect with Me
-
+<p>I'm always open to collaborating on serious, innovative projects, whether it's a backend-heavy system, an AI-driven solution, a cross-platform app, or something completely experimental.</p>
 <p align="left">
 <a href="https://linkedin.com/in/iamhitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamhitya" height="30" width="40" /></a>
 <a href="https://x.com/iamhitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamhitya" height="30" width="40" /></a>
