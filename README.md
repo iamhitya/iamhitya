@@ -50,6 +50,18 @@ Crazy about developing stuff from 0 to 1. 🚀
 #### 🗄 Databases
 `Microsoft SQL Server` `MongoDB` `PostgreSQL` `Azure Cosmos DB` `Google Firestore`
 
+#### ☁️ Cloud Technologies
+`Microsoft Azure (App Services`  `Azure Functions`  `Active Directory`  `Storage Accounts`  `Service Bus`  `Key Vault`  `Redis Cache`  `Data Factory`  `ARM Templates`  `Cognitive Services)`  `Amazon Web Services (AWS)`  `Google Cloud Platform (GCP)`
+
+#### 🧩 DevOps & Source Control
+`Git`  `GitHub`  `GitHub Actions`  `Azure DevOps Pipelines`  `Bitbucket`  `TFS`  `CI/CD pipelines`  `Docker`  `Kubernetes`
+
+#### 🧪 Testing & Frameworks
+`xUnit`  `Unit Testing`  `Integration Testing`  `nopCommerce`
+
+#### 📋 Project Management
+`Agile/Scrum Methodologies`  `Azure DevOps`  `Jira`
+
 ---
 
 ### Connect with Me
