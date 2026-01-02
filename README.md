@@ -81,5 +81,5 @@ Crazy about developing stuff from 0 to 1. 🚀
 </p>
 
 <picture>
-  <img alt="github contribution grid snake animation" src="snake.svg">
+  <img alt="github contribution grid snake animation" src="/assets/snake.svg">
 </picture>
