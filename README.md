@@ -24,13 +24,13 @@ Crazy about developing stuff from 0 to 1. 🚀
 
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/iamhitya/recent-activity/all/)**
 
-- ⚡ Fun fact **Equal is Not Always Equal in JavaScript**.
+- ⚡ Fun fact **Equal is Not Always Equal** in JavaScript
 
 ---
 
 ### My Absolute Favorites
 
-- 💻 I love exploring new tech stack and building cool stuffs.
+- 💻 I enjoy exploring new tech stacks and building interesting solutions.
 
 - 📰 Reading & writing tech blogs whenever possible.
 
@@ -40,7 +40,7 @@ Crazy about developing stuff from 0 to 1. 🚀
 
 ### Tech Stack & Tools
 
-#### 🤖 AI & Machine Learning
+#### 🤖 GenAI & Machine Learning
 - `OpenAI API` `Azure OpenAI` `Retrieval-Augmented Generation (RAG)` `Vector Databases` `Semantic Kernel` `Prompt Engineering` `Hugging Face` `Amazon Bedrock` `Ollama` `AutoGen`
 
 #### ⚙️ Backend Development
@@ -53,7 +53,7 @@ Crazy about developing stuff from 0 to 1. 🚀
 - `Microsoft SQL Server` `MongoDB` `PostgreSQL` `Azure Cosmos DB` `Google Firestore`
 
 #### ☁️ Cloud Technologies
-- `Microsoft Azure (App Services, Azure Functions, Active Directory, Storage Accounts, Service Bus, Key Vault, Redis Cache, Data Factory, ARM Templates,Cognitive Services)` `Amazon Web Services (AWS)` `Google Cloud Platform (GCP)`
+- `Microsoft Azure (App Services, Azure Functions, Active Directory, Storage Accounts, Service Bus, Key Vault, Redis Cache, Data Factory, ARM Templates, Cognitive Services)` `Amazon Web Services (AWS)` `Google Cloud Platform (GCP)`
 
 #### 🧩 DevOps & Source Control
 - `Git` `GitHub` `GitHub Actions` `Azure DevOps Pipelines` `Bitbucket` `TFS` `CI/CD Pipelines` `Docker` `Kubernetes`
