@@ -47,6 +47,9 @@ Crazy about developing stuff from 0 to 1. 🚀
 #### 🖥 Frontend Development
 `Angular` • `Vue.js` • `JavaScript` • `JQuery` • `HTML5` • `CSS3` • `Bootstrap`
 
+#### 🗄 Databases
+`Microsoft SQL Server` `MongoDB` `PostgreSQL` `Azure Cosmos DB` `Google Firestore`
+
 ---
 
 ### Connect with Me
