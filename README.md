@@ -22,7 +22,7 @@ Crazy about developing stuff from 0 to 1. 🚀
 
 - 📄 Checkout my **[resume](https://iamhitya.github.io/resume/)**
 
-- 📝 I ~~regularly~~ write articles on **[LinkedIn](https://www.linkedin.com/in/iamhitya/recent-activity/all/)**
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/iamhitya/recent-activity/all/)**
 
 - ⚡ Fun fact **Equal is Not Always Equal in JavaScript.**
 
@@ -71,7 +71,7 @@ Crazy about developing stuff from 0 to 1. 🚀
 <p align="left">
 <a href="https://linkedin.com/in/iamhitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamhitya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2729677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2729677" height="30" width="40" /></a>
-<a href="https://twitter.com/iamhitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamhitya" height="30" width="40" /></a>
+<a href="https://x.com/iamhitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamhitya" height="30" width="40" /></a>
 <a href="https://fb.com/iamhitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamhitya" height="30" width="40" /></a>
 <a href="https://instagram.com/iamhitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamhitya" height="30" width="40" /></a>
 <a href="https://hashnode.com/@iamhitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="@iamhitya" height="30" width="40" /></a>
