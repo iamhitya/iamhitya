@@ -39,28 +39,28 @@ Crazy about developing stuff from 0 to 1. 🚀
 ### 🚀 Tech Stack & Tools
 
 #### 🤖 AI & Machine Learning
-`OpenAI API` • `Azure OpenAI` • `Retrieval-Augmented Generation (RAG)` • `Vector Databases` • `Semantic Kernel` • `Prompt Engineering` • `Hugging Face` • `Amazon Bedrock` • `Ollama` • `AutoGen`
+`OpenAI API` `Azure OpenAI` `Retrieval-Augmented Generation (RAG)` `Vector Databases` `Semantic Kernel` `Prompt Engineering` `Hugging Face` `Amazon Bedrock` `Ollama` `AutoGen`
 
 #### ⚙️ Backend Development
-`.NET Core` • `ASP.NET` • `C#` • `VB.NET` • `Web API` • `REST APIs` • `GraphQL` • `Entity Framework` • `LINQ` • `Microservices Architecture` • `Domain-Driven Design (DDD)` • `OAuth 2.0` • `Kafka` • `Confluent Cloud`
+`.NET Core` `ASP.NET` `C#` `VB.NET` `Web API` `REST APIs` `GraphQL` `Entity Framework` `LINQ` `Microservices Architecture` `Domain-Driven Design (DDD)` `OAuth 2.0` `Kafka` `Confluent Cloud`
 
 #### 🖥 Frontend Development
-`Angular` • `Vue.js` • `JavaScript` • `JQuery` • `HTML5` • `CSS3` • `Bootstrap`
+`Angular` `Vue.js` `JavaScript` `JQuery` `HTML5` `CSS3` `Bootstrap`
 
 #### 🗄 Databases
 `Microsoft SQL Server` `MongoDB` `PostgreSQL` `Azure Cosmos DB` `Google Firestore`
 
 #### ☁️ Cloud Technologies
-`Microsoft Azure (App Services`  `Azure Functions`  `Active Directory`  `Storage Accounts`  `Service Bus`  `Key Vault`  `Redis Cache`  `Data Factory`  `ARM Templates`  `Cognitive Services)`  `Amazon Web Services (AWS)`  `Google Cloud Platform (GCP)`
+`Microsoft Azure (App Services, Azure Functions, Active Directory, Storage Accounts, Service Bus, Key Vault, Redis Cache, Data Factory, ARM Templates,Cognitive Services)` `Amazon Web Services (AWS)` `Google Cloud Platform (GCP)`
 
 #### 🧩 DevOps & Source Control
-`Git`  `GitHub`  `GitHub Actions`  `Azure DevOps Pipelines`  `Bitbucket`  `TFS`  `CI/CD pipelines`  `Docker`  `Kubernetes`
+`Git` `GitHub` `GitHub Actions` `Azure DevOps Pipelines` `Bitbucket` `TFS` `CI/CD pipelines` `Docker` `Kubernetes`
 
 #### 🧪 Testing & Frameworks
-`xUnit`  `Unit Testing`  `Integration Testing`  `nopCommerce`
+`xUnit` `Unit Testing` `Integration Testing` `nopCommerce`
 
 #### 📋 Project Management
-`Agile/Scrum Methodologies`  `Azure DevOps`  `Jira`
+`Agile/Scrum Methodologies` `Azure DevOps` `Jira`
 
 ---
 
