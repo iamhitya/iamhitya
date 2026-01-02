@@ -24,7 +24,7 @@ Crazy about developing stuff from 0 to 1. 🚀
 
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/iamhitya/recent-activity/all/)**
 
-- ⚡ Fun fact **Equal is Not Always Equal in JavaScript.**
+- ⚡ Fun fact **Equal is Not Always Equal in JavaScript**.
 
 ---
 
