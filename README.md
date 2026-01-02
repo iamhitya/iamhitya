@@ -34,6 +34,21 @@ Crazy about developing stuff from 0 to 1. 🚀
 
 - 🍕 Hackathons, meetups & tech events.
 
+---
+
+### 🚀 Tech Stack & Tools
+
+#### 🤖 AI & Machine Learning
+`OpenAI API` • `Azure OpenAI` • `Retrieval-Augmented Generation (RAG)` • `Vector Databases` • `Semantic Kernel` • `Prompt Engineering` • `Hugging Face` • `Amazon Bedrock` • `Ollama` • `AutoGen`
+
+#### ⚙️ Backend Development
+`.NET Core` • `ASP.NET` • `C#` • `VB.NET` • `Web API` • `REST APIs` • `GraphQL` • `Entity Framework` • `LINQ` • `Microservices Architecture` • `Domain-Driven Design (DDD)` • `OAuth 2.0` • `Kafka` • `Confluent Cloud`
+
+#### 🖥 Frontend Development
+`Angular` • `Vue.js` • `JavaScript` • `JQuery` • `HTML5` • `CSS3` • `Bootstrap`
+
+---
+
 ### Connect with Me
 
 <p align="left">
