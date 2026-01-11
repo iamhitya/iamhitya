@@ -4,11 +4,11 @@
   <a href="https://iamhitya.github.io/resume/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&width=600&height=40&center=true&vCenter=true&lines=Senior+.NET+Full+Stack+Developer;Integrating+GenAI+with+.NET;Clean+architecture.+Real-world+systems.;Backend-focused.+Frontend-capable.;Performance.+Security.+Maintainability.;Building+Real-Time+Web+Applications;Always+learning.+Always+building." alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamhitya&label=Profile%20views&color=0e75b6&style=flat" alt="iamhitya" />
+</p>
+
 I'm 💻 Full Stack Software Engineer passionate about building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions.
-
-Crazy about developing stuff from 0 to 1. 🚀
-
-<img src="https://komarev.com/ghpvc/?username=iamhitya&label=Profile%20views&color=0e75b6&style=flat" alt="iamhitya" /> 
 
 ### More About Me
 
